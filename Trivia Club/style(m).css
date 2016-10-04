@@ -1,0 +1,28 @@
+html{
+	width: 100%;
+	height: 100%;
+	
+}
+body{
+	width: 100%;
+	height: 100%;
+}
+
+li {
+
+    display: inline-block;
+}
+.headers{
+	background-color: red;
+	height: 40px;
+
+}
+.title{
+	text-align: center;
+	font-family: 'Lalezar', cursive;
+	font-size: 600%;
+}
+.bottom{
+	background-color: red;
+	height: 40px;
+}
