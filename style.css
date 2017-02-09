@@ -72,6 +72,19 @@ li {
 	background-color: red;
 	height: 40px;
 }
+.newPres{
+	padding-top: 150px;
+	font-family: 'Shrikhand', cursive;
+
+}
+@media (max-width: 991px) {
+	.newPres{
+		padding-top: 0px;
+			font-family: 'Shrikhand', cursive;
+
+	}
+}
+
 
 
 
